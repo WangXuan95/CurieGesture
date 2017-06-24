@@ -12,12 +12,15 @@
 
 ## Gesture_Show_UWP
 
-该UWP程序用于显示手势识别结果
+该UWP程序用于显示手势识别结果，请使用VS2015以上版本进行编译
+
+![image](https://github.com/WangXuan95/CurieGesture/blob/master/uwp.png)
 
 ## Gesture_Show_Sensor_Wave
 
-在串口打印预处理算法得到的波形，用于证明神经网络进行手势识别的可行性。
+在串口绘图器里绘制预处理算法得到的波形，用于证明神经网络进行手势识别的可行性。
 
 ## resetAccelerometer
 
 对加速度计进行零点校准。每个新的Curie芯片需要运行一次校准，才能进行手势训练和识别。
+
