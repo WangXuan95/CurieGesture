@@ -1,0 +1,1 @@
+H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\BLEServiceBrowser.csproj;x64

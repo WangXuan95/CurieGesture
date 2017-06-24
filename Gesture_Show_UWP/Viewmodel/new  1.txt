@@ -1,0 +1,21 @@
+
+
+Profile ABC
+		----Service 1 (Primary)
+					----Charactoristic a
+									----Attribute
+					----Charactoristic b
+									----Attribute			
+					----Charactoristic c
+									----Attribute
+		----Service 2 (Secondary)
+					----Charactoristic d
+									----Attribute
+					----Charactoristic d
+									----Attribute			
+					----Charactoristic e
+									----Attribute
+
+
+
+			

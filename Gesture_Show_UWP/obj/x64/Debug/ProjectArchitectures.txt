@@ -1,0 +1,1 @@
+H:\WXCode\app-accelerator-2-1\Windows10\BLEServiceBrowser.csproj;x64

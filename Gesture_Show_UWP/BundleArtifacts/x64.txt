@@ -1,0 +1,2 @@
+MainPackage=C:\Extras\Sparity\BLEServiceBrowser\bin\x64\Debug\BLEServiceBrowser_1.0.18.0_x64_Debug.appx
+SymbolPackage=C:\Extras\Sparity\BLEServiceBrowser\AppPackages\BLEServiceBrowser_1.0.18.0_Debug_Test\BLEServiceBrowser_1.0.18.0_x64_Debug.appxsym
