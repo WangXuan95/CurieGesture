@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>9dc80eac-4470-482f-ace5-cc2a935ff4b0</PackageIdentityName>
     <PackageIdentityPublisher>CN=baluteju</PackageIdentityPublisher>
-    <IntermediateOutputPath>H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\obj\x64\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\obj\x64\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\bin\x64\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\bin\x64\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-30T03:13:42.499</Modified>
+      <Modified>2017-06-24T12:56:28.933</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\bin\x64\Release\BLEServiceBrowser.exe">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\bin\x64\Release\BLEServiceBrowser.exe">
       <PackagePath>entrypoint\BLEServiceBrowser.exe</PackagePath>
-      <Modified>2017-05-30T03:13:41.909</Modified>
+      <Modified>2017-06-24T12:56:27.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wgg\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -460,92 +460,92 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T15:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Logo.scale-200.png">
       <PackagePath>Assets\Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Logo.scale-400.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Logo.scale-400.png">
       <PackagePath>Assets\Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.097</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\SmallLogo.scale-200.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\SmallLogo.scale-200.png">
       <PackagePath>Assets\SmallLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\SmallLogo.scale-400.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\SmallLogo.scale-400.png">
       <PackagePath>Assets\SmallLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-100.png">
       <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-200.png">
       <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-400.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square310x310Logo.scale-400.png">
       <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-200.png">
       <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-400.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-01-25T19:29:35.436</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\bin\x64\Release\BLEServiceBrowser.xr.xml">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\bin\x64\Release\BLEServiceBrowser.xr.xml">
       <PackagePath>BLEServiceBrowser.xr.xml</PackagePath>
       <Modified>2017-05-30T03:13:41.688</Modified>
     </AppxPackagedFile>
@@ -553,14 +553,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-04-26T07:26:01.478</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\bin\x64\Release\resources.pri">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\bin\x64\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-30T03:13:42.333</Modified>
+      <Modified>2017-06-24T12:56:28.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\WXCode\Arduino101\Gesture\Gesture_Show_UWP\bin\x64\Release\Core\BLEServiceBrowser.exe">
+    <AppxPackagedFile Include="H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\bin\x64\Release\Core\BLEServiceBrowser.exe">
       <PackagePath>BLEServiceBrowser.exe</PackagePath>
-      <Modified>2017-05-30T03:13:42.496</Modified>
+      <Modified>2017-06-24T12:56:28.922</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

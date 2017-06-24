@@ -1,4 +1,4 @@
-﻿# 有关Intel Curie手势识别的全部代码
+﻿# Intel Curie (Arduino101) 手势识别项目
 
 ## Gesture
 
