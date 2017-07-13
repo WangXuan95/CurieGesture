@@ -15778,10 +15778,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "H:\\WXCode\\Arduino101\\CurieGesture\\Gesture_Show_UWP\\BLEServiceBrowser.csproj",
+      "projectUniqueName": "H:\\WXCode\\Arduino101\\gesture-learn\\code\\Gesture_Show_UWP\\BLEServiceBrowser.csproj",
       "projectName": "BLEServiceBrowser",
-      "projectPath": "H:\\WXCode\\Arduino101\\CurieGesture\\Gesture_Show_UWP\\BLEServiceBrowser.csproj",
-      "projectJsonPath": "H:\\WXCode\\Arduino101\\CurieGesture\\Gesture_Show_UWP\\project.json",
+      "projectPath": "H:\\WXCode\\Arduino101\\gesture-learn\\code\\Gesture_Show_UWP\\BLEServiceBrowser.csproj",
+      "projectJsonPath": "H:\\WXCode\\Arduino101\\gesture-learn\\code\\Gesture_Show_UWP\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {

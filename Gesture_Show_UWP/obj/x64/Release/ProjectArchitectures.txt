@@ -1,1 +1,1 @@
-H:\WXCode\Arduino101\CurieGesture\Gesture_Show_UWP\BLEServiceBrowser.csproj;x64
+H:\WXCode\Arduino101\gesture-learn\code\Gesture_Show_UWP\BLEServiceBrowser.csproj;x64

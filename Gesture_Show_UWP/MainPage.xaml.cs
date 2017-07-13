@@ -489,7 +489,7 @@ namespace BLEServiceBrowser
         }
 
 
-        string[] gestures = new string[] {"Unknown", "Right shift and go back", "Left shift and go back", "Up shift and go back", "Down shift and go back", "Draw circle anticlockwise", "Draw circle clockwise", "Double click", "Triple click" };
+        string[] gestures = new string[] {"Unknown", "Right shift and go back", "Left shift and go back","Draw circle anticlockwise", "Draw circle clockwise" };
         const int invalidGestureCode = 0xff;
         const int startMatchingCode = 0xfe;
 
